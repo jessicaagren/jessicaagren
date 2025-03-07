@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,vite,ps,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,vite,figma,cs,ps,ai)](https://skillicons.dev)
 
 ### Linkedin:
 

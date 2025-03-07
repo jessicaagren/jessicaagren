@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,ps,ai)](https://skillicons.dev)
+
+###Linkedin:
 
 [![My Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jessicaagren/)
 

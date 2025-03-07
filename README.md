@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,vite,figma,cs,ps,ai)](https://skillicons.dev)
+### Dev skills
+[![My Tech Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,vite)](https://skillicons.dev
+
+### Other skills
+[![My Tech Skills](https://skillicons.dev/icons?i=figma,cs,ps,ai)](https://skillicons.dev)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaagren&layout=compact&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
 
@@ -8,7 +12,7 @@
 
 
 
-### Linkedin:
+### Linkedin
 
 [![My Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jessicaagren/)
 

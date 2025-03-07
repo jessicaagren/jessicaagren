@@ -6,7 +6,7 @@
 ### Design and UX
 [![My Tech Skills](https://skillicons.dev/icons?i=figma,ps,ai)](https://skillicons.dev)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaagren&layout=compact&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaagren&layout=compact&langs_count=5&theme=ambient_gradient&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
 
 
 

@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Dev skills
-[![My Tech Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,vite)](https://skillicons.dev
+[![My Tech Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,vite)](https://skillicons.dev)
 
 ### Other skills
 [![My Tech Skills](https://skillicons.dev/icons?i=figma,cs,ps,ai)](https://skillicons.dev)

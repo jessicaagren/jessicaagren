@@ -10,6 +10,8 @@ I'm Jessica, a frontend developer in the making, currently studying React and ev
 
 ## Stats
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jessicaagren&theme=react&hide_border=true&rank_icon=github)](https://github.com/jessicaagren)
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaagren&layout=compact&langs_count=5&theme=react&hide_border=true)]()
 
 ## Linkedin

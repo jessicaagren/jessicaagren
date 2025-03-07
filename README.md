@@ -2,9 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,vite,figma,cs,ps,ai)](https://skillicons.dev)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaagren&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicaagren&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaagren&layout=compact&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
 
 
 ### Linkedin:
@@ -13,7 +11,7 @@
 
 
 <!--
-**jessicaagren/jessicaagren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicaagren&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)
 
 Here are some ideas to get you started:
 

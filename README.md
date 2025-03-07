@@ -2,6 +2,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,react)](https://skillicons.dev)
 
+[![My Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jessicaagren/)
+
+
 <!--
 **jessicaagren/jessicaagren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

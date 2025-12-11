@@ -8,12 +8,6 @@ I'm Jessica, a frontend developer in the making, currently studying React and ev
 ## Design and UX
 [![My Tech Skills](https://skillicons.dev/icons?i=figma,ps,ai)](https://skillicons.dev)
 
-## Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jessicaagren&theme=react&hide_border=true&rank_icon=github)](https://github.com/jessicaagren)
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaagren&layout=compact&langs_count=5&theme=react&hide_border=true)]()
-
 ## Linkedin
 
 [![My Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jessicaagren/)

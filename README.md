@@ -3,7 +3,7 @@
 I'm Jessica, a frontend developer in the making, currently studying React and everything that makes the web look and feel amazing. I love building clean, user-friendly interfaces—with a touch of design magic.
 
 ## Tech stack
-[![My Tech Skills](https://skillicons.dev/icons?i=react,sass,js,ts,html,css,nodejs,express,cs,vite,azure)](https://skillicons.dev)
+[![My Tech Skills](https://skillicons.dev/icons?i=react,sass,nodejs,express,cs,vite,azure)](https://skillicons.dev)
 
 ## Design and UX
 [![My Tech Skills](https://skillicons.dev/icons?i=figma,ps,ai)](https://skillicons.dev)

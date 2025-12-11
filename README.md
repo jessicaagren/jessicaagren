@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40">
 
-I'm Jessica, a frontend developer in the making, currently studying React and everything that makes the web look and feel amazing. I love building clean, user-friendly interfaces—with a touch of design magic.
+I'm Jessica, a frontend developer in the making, currently studying React and everything that makes the web look and feel amazing. Previously worked in communications and design, so am also knowledgeable in UX.
 
 ## Tech stack
 [![My Tech Skills](https://skillicons.dev/icons?i=react,sass,nodejs,express,cs,vite,azure)](https://skillicons.dev)

@@ -1,6 +1,8 @@
 # Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40">
 
-I'm Jessica, a frontend developer in the making, currently studying React and everything that makes the web look and feel amazing. Previously worked in communications and design, so am also knowledgeable in UX.
+I'm Jessica, a frontend developer in the making, currently studying React and web development overall. Previously worked in media and communications, which means I'm also knowledgeable in UX and graphic design.
+
+Currently working on [Dinnerwise](https://github.com/SiriJV/DinnerWise).
 
 ## Tech stack
 [![My Tech Skills](https://skillicons.dev/icons?i=react,sass,nodejs,express,cs,vite,azure)](https://skillicons.dev)

@@ -2,7 +2,7 @@
 
 I'm Jessica, a frontend developer in the making, currently studying React and web development overall. Previously worked in media and communications, which means I'm also knowledgeable in UX and graphic design.
 
-Currently working on [Dinnerwise](https://github.com/SiriJV/DinnerWise).
+Currently working on [DinnerWise](https://github.com/SiriJV/DinnerWise) and [Recipe in Pieces](https://github.com/jessicaagren/recipe-in-pieces).
 
 ## Tech stack
 [![My Tech Skills](https://skillicons.dev/icons?i=react,sass,nodejs,express,cs,vite,azure)](https://skillicons.dev)

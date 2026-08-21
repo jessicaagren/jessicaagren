@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40">
 
-I'm Jessica, a frontend with experience in fullstack environments, with my main focus on React. Previously worked in media and communications, which means I'm also knowledgeable in UX and graphic design.
+I'm Jessica, a frontend developer with experience in fullstack environments, with my main focus on React. Previously worked in media and communications, which means I'm also knowledgeable in UX and graphic design.
 
 Currently working on [Recipe in Pieces](https://github.com/jessicaagren/recipe-in-pieces).
 

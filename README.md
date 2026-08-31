@@ -5,7 +5,7 @@ I'm Jessica, a frontend developer with experience in fullstack environments, wit
 Currently working on [Recipe in Pieces](https://github.com/jessicaagren/recipe-in-pieces).
 
 ## Tech stack
-[![My Tech Skills](https://skillicons.dev/icons?i=react,sass,nodejs,express,cs,vite,azure)](https://skillicons.dev)
+[![My Tech Skills](https://skillicons.dev/icons?i=react,sass,nodejs,express,cs,dotnet,vite,azure)](https://skillicons.dev)
 
 ## Design and UX
 [![My Tech Skills](https://skillicons.dev/icons?i=figma,ps,ai)](https://skillicons.dev)

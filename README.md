@@ -7,7 +7,7 @@ Currently working on [Recipe in Pieces](https://github.com/jessicaagren/recipe-i
 ## [My Portfolio](https://jessicaagren.github.io/portfolio/)
 
 ## Tech Stack
-[![My Tech Skills](https://skillicons.dev/icons?i=react,sass,nodejs,express,cs,dotnet,vite,azure)](https://skillicons.dev)
+[![My Tech Skills](https://skillicons.dev/icons?i=react,sass,tailwind,nodejs,express,cs,dotnet,vite,mysql,azure)](https://skillicons.dev)
 
 ## Design and UX
 [![My Tech Skills](https://skillicons.dev/icons?i=figma,ps,ai)](https://skillicons.dev)
